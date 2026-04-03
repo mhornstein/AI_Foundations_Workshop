@@ -1,6 +1,8 @@
 # Hands-On AI Workshop: From Python Tools to MCP (and beyond)
 
-This repository contains a hands-on workshop that demystifies how modern AI systems work, designed for both technical and non-technical audiences.
+This repository contains a hands-on workshop that demystifies how modern AI systems work, designed for both technical and non-technical audiences. 
+
+For a breakdown of the design decisions behind this workshop, see [the full post](https://maor-hornstein.webflow.io/project/hands-on-ai-workshop).
 
 This workshop is designed to build intuition step by step:
 ![Workshop roadmap](https://raw.githubusercontent.com/mhornstein/AI_Foundations_Workshop/main/images/roadmap.png)
