@@ -7,7 +7,8 @@ For a breakdown of the design decisions behind this workshop, see [the full post
 This workshop is designed to build intuition step by step:
 ![Workshop roadmap](https://raw.githubusercontent.com/mhornstein/AI_Foundations_Workshop/main/images/roadmap.png)
 
-* The workshop is delivered through `workshop.ipynb`, which contains all the required material.  
+* The workshop is delivered through `workshop.ipynb`, which contains all the required material.
+* You will need your own **OpenAI API key**. Create one in the [OpenAI API Keys page](https://platform.openai.com/api-keys) and paste it into the designated cell in the notebook.
 * **Optional:** The file `bonus-manual-mcp-client-flow.md` is an optional deep dive for curious readers who want to understand how an MCP client works behind the scenes. It is not part of the workshop.
 
 ---
